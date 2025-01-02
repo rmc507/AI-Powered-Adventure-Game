@@ -1,0 +1,171 @@
+PS C:\Users\rmcne\testing\game> python game.py
+Enter h for help
+Welcome to the adventure, Robert!
+This is where the player is:  dungeon
+>>> down
+You moved down.
+You are now at the town
+Narrator: As you stand amidst the quaint and medieval town's lively bustle, the rhythmic din of hammering on the anvil from Grimbold Ironfist's forge echoes through the streets, mingling with the cheerful shouts of children playing in the rain-soaked square. The gray skies above seem to weep tears of water onto the cobblestone streets, casting a melancholic yet charming hue over the scene. People scurry about, their brightly colored cloaks and hoods a vibrant splash against the drab backdrop, while the blacksmith's hammer rises and falls in a steady cadence, punctuating the air with each resounding crash. The scent of hot metal, fresh bread, and wet earth fills your nostrils, transporting you to an era long past, where medieval charm and rustic simplicity reigned supreme.
+Dave: Let's head down, Robert. I'm not sure what we'll find, but we might be able to get out of this rain.
+>>> -hello
+Blacksmith: -Hello there! Grimbold Ironfist's my name, blacksmithing's my game. What brings you to these fair streets on a day like today? The rain's not exactly the most welcoming of conditions, but I suppose it's good for washing away the soot and grime from the forge. Come on in out of the wet, what can I do for you? Need some gear forged or repaired?
+>>> -C
+Context cleared. Start a new conversation.
+>>> hello
+Dave: "Hey buddy, how's it going? We've got a long road ahead of us, but I'm right by your side."
+>>> -hello there
+Blacksmith: "Ah, good morrow to you! Welcome to my forge. I'm Blacksmith Kaelin, at your service. What brings you to these humble walls? Are you in need of a sturdy sword, perhaps, or a suit of armor to protect the innocent? Or maybe it's something else entirely that weighs on your mind?" (wiping sweat from brow with a calloused hand)
+>>> can i please buy a sword
+Dave: "Ah, now that's a great idea, Robert! I've got just the thing for ya. Let me show you my finest work - it's a sturdy longsword with a sharp blade and a comfortable grip. Only a few gold coins should do the trick..." (eyes lighting up at the prospect of making a sale)
+>>> -Do you think you could let it go for a little less for a traveler in need?
+Blacksmith: (Kaelin's expression softens, and he gazes at you with a hint of understanding) Ah, I see. You're not just looking for a sword, are you? You're looking for a way to make your journey safer, and maybe even give you an edge in these uncertain times.
+
+(Lowering his voice slightly) Listen, traveler, I've been doing this trade for long enough to know when someone's trying to get by on their wits rather than a fat purse. And I'll tell you what - I think I can let the sword go... (pauses and eyes you with a hint of curiosity) ...for 5 gold pieces instead of the usual 6, if you're willing to do me a small favor in return.
+
+(Wiping his hands on his apron, he leans in slightly) You see, I've got a bit of a problem on my hands. One of my apprentices has gone missing, and I'm worried about him. He was last seen heading into the nearby forest, and I fear for his safety. If you could... (pauses, thinking) ...keep an ear out for any rumors or information that might come your way, I'd be mighty grateful.
+
+(Leaning back, he eyes you with a hint of a smile) And if you're still not satisfied with the price, well... let's just say I'm willing to make a special exception for someone who looks like they could use a break.
+>>> - I can do that *hands over the coins*
+Blacksmith: (Kaelin's face lights up with a warm smile as he takes the 5 gold pieces from you) Ah, thank you, traveler! You drive a fair bargain. (he hands you the sword, wrapping it in a length of leather) There you are, a fine longsword, crafted with care and attention to detail. May it serve you well on your journey.
+
+(As he hands you the sword, he leans in slightly, his voice taking on a more serious tone) Now, I want you to promise me one thing - keep an ear out for any rumors or information that might come your way about my missing apprentice. His name is Eryndor, and he's been with me since he was a boy. He's a good kid, and I'd hate to see anything happen to him.
+
+(Tightening his grip on the sword) And if you do hear anything... well, let's just say I'm willing to owe you one. You never know when you might need a favor from a blacksmith in a pinch.
+
+(Stepping back, he eyes you with a hint of curiosity) Now, what brings you to these parts? What's your story, traveler?
+>>> - We are just passing through, we are drifters of sorts, and we really must be going. i will make sure to look for Eryndor on our travels
+Blacksmith: (Kaelin nods understandingly, a small smile playing on his lips) Ah, I see. Drifters, eh? Well, may the road rise up to meet you, and may your journey be swift and safe. (he pauses for a moment, lost in thought) If you do hear anything about Eryndor, don't hesitate to reach out. A blacksmith's got to look out for his own, after all.
+
+(He eyes you with a hint of curiosity) Say... what's your name, traveler? I'm usually better at remembering faces, but yours is one that slips my mind. (he chuckles, a low rumble in his chest) Ah, the memories of years on the anvil start to fade like the stars on a cloudy night.
+
+(His expression turns serious once more) But be careful out there, traveler. These are uncertain times we live in, and there's more than one kind of danger lurking in the shadows. (he pauses, then nods) May Fortune smile upon you, wherever your path may lead.
+
+(He steps aside, allowing you to pass through the entrance of his forge) Now, get on with you! The road is waiting, and I've got work to do. (his voice calls out after you) And don't forget to keep an ear out for Eryndor!
+>>> lets go dave. what did you think about that
+Dave: "Ah, yeah... that blacksmith Kaelin seemed like a good guy, Robert. I'm glad we could get him to give us a good price on that sword. Now, shall we be off? We've got a long road ahead of us." (looking around cautiously) "But, uh, do you think we should keep an eye out for this Eryndor fella? Just in case?"
+>>> lets start walking for the woods
+Dave: "Alright, Robert... I think we should head into the forest now. Keep your eyes peeled for any signs of Eryndor, like tracks or... (pauses) well, anything that looks out of place." (glancing around cautiously) "Let's stay sharp, friend."
+>>> agreed.
+Dave: "Alright, Robert. Let's move quiet-like into the woods. I'll keep an eye out for any tracks or signs of Eryndor." (you glance around cautiously, your hand on the hilt of your sword) "We don't know what we're looking for, but let's be careful, yeah?"
+>>> right
+You moved right.
+You are now at the forest
+Narrator: As you step into the forest, the towering trees seem to close in around you like sentinels, their branches creaking softly in the gentle breeze. The sunlight filtering through the leafy canopy above casts dappled shadows on the forest floor, where a crunchy carpet of fallen leaves and small plants stretches out before you like a soft, emerald green bed. The air is alive with the scent of pine, invigorating your senses as you breathe it in deeply. And yet, despite the peaceful atmosphere, there's an undercurrent of tension here - the soft scurrying of creatures through the underbrush, the flash of wings beating rapidly through the trees, and the hooting calls of unseen birds all serve to remind you that this is a wild place, full of mysteries waiting to be uncovered.
+Dave: "Shh, quiet now, Robert. I think I see something ahead. A small path, almost hidden by the leaves." (you whisper, your eyes scanning the forest floor) "Looks like someone's been this way recently."
+>>> *Robert yells for Eryndor*
+Dave: "Shh, quiet! I think you scared away whoever was here," (you whisper, glancing around nervously) "Let's try to be more careful, Robert."
+>>> lets quietly follow this trail to see if eryndoor is at the end
+Dave: "Alright, Robert, let's move quiet-like behind this trail. I'll keep an eye out for any signs of Eryndor or... other things that might be lurking." (you whisper, your eyes scanning the surroundings) "Stay close and stay sharp, friend."
+>>> I see him!
+Dave: "Shh, quiet now, Robert! It's Eryndor, alright? But what's going on? He looks like he's in some kind of trouble..." (you whisper, eyes fixed intently on the figure ahead)
+>>> what kind of trouble is he in
+Dave: "Eryndor's surrounded by a group of rough-looking men, Robert," (you whisper, eyes fixed intently on the scene ahead) "They're armed to the teeth and look like they mean business. What do we do now?"
+>>> we must defend him, we told the blacksmith we would bring him back to him. *robert raises his sword and char
+ges the roug_looking_men
+Dave: "Right behind you, Robert! Let's take those guys down and get Eryndor out of there!" (you shout, drawing your own sword and charging alongside Robert) "We can't let them hurt him, or ourselves for that matter!"
+>>> i strike one man with the fae of his sword and he falls to the ground. i look to see what dave is doing
+Dave: I'm taking down another one, Robert! *Dave swiftly swings his own sword, striking true and knocking a burly man off balance* Ha! Got him right in the shoulder! Now it's three against two, let's finish this off quick!
+>>> I yell to Eryndor 'help us or die! Kaelin sent us!' as i parry the attack of one of the men
+Dave: Eryndor's eyes widen in surprise, but then a look of determination crosses his face. He swings a small club he had been holding behind his back and hits one of the attackers on the head, sending him stumbling backward. "Get 'em off me!" he yells, taking advantage of the distraction to make a break for Robert and you.
+>>> i strike the man with the hilt of my sword, knocking him unconsious.
+Dave: "Good shot, Dave! Now let's get Eryndor outta here before more of 'em show up!" (Robert yells, swinging his own sword to keep the remaining attackers at bay) "We got this, buddy! Just follow me and we'll get him back to Kaelin in one piece!"
+>>> I, robert, starts going back the way we came, signalling for both to follow.
+Dave: "Right behind ya, Rob! Eryndor's got his club, let's just hope he can keep up with us!" (I say, following close behind Robert and keeping a wary eye on our surroundings) "We should be back at the blacksmith's shop in no time."
+>>> *Eyryndor catches up with the group* I, robert, says to him "what happened to you? why did you go missing?"
+Dave: "Ah, it's a long story, Rob," Eryndor says, out of breath. "I was on an errand for Kaelin, gathering some supplies from the other side of town. I got jumped by those men and they took me to their leader, Grimgar. He's been holding me prisoner, trying to get Kaelin to do him favors."
+>>> robert- "well its good that we saved you. what do you think about that dave?"
+Dave: "Good thing we found ya, Eryndor's in one piece now, Robert! And them scoundrels got what was comin' to 'em."
+>>> left
+You moved left.
+You are now at the town
+Narrator: As we emerge from the forest's embrace, the quaint and medieval town unfolds before us like a tapestry of wonder. The streets are alive with the bustle of humanity, people hurrying about their daily business while children's laughter and shouts pierce the air like joyful sparks. To our right, the blacksmith's hammer comes crashing down on the anvil, its rhythmic boom echoing through the misty air like a heartbeat, a reminder that even amidst chaos, life and industry persist. The sky above hangs heavy with solemn gray clouds, their dark undersides seeming to absorb the faint rain that falls around us, casting a melancholy mood over the scene. Yet, amidst this somber backdrop, the town's vitality shines through, a testament to its people's resilience and determination.
+Dave: "Ah, we're back at Kaelin's shop, Rob! I think we should let Eryndor go inside and get some rest, he looks like he could use it."
+>>> yes, lets go visit Kaelin as well.
+Dave: "Good idea, Rob! I'm sure Kaelin'll be relieved to see us return with Eryndor in one piece. Let's get him settled in and then head inside to give the old man some news."
+>>> *the group goes into the store*
+Dave: *Kaelin looks up from his work, relief written all over his face* "Ah, thank the gods you're back! I was worried sick about Eryndor. Come in, come in, let's get him settled." He ushers Eryndor towards a small room in the back of the shop, while Robert and I look on with concern still fresh in our minds.
+>>> -How did this happen, Eryndor? says robert
+Blacksmith: *Kaelin's expression turns serious as he listens to Robert's question, his eyes narrowing slightly* "Ah, yes... well, it seems Grimgar has been causing trouble in our town again. He thinks he can just take what he wants and bully those who stand in his way. Eryndor was out gathering supplies for me when he stumbled upon one of Grimgar's men. They took him prisoner and were demanding that I do favors for them... or else."
+
+*Eryndor, still shaken but trying to compose himself, speaks up*
+
+"I'm sorry, Kaelin. I should have been more careful. But those men were too strong, and Grimgar... he's got a lot of influence in this town. I'm afraid we can't let our guard down for much longer."
+
+*Kaelin nods gravely, his face set in determination*
+
+"We'll get to the bottom of this, don't you worry. And next time, we'll be prepared."
+>>> -Do you want us to do something about it?
+Blacksmith: *Kaelin's eyes light up with a mix of determination and hope* "Ah, I've been waiting for someone with your... particular set of skills, Robert. Yes, please, take care of Grimgar and his men. Show them that we won't be intimidated or bullied in our own town. Eryndor here has already done so much to help me out, but now it's time for us to take a stand."
+
+*He looks at Eryndor with gratitude* "And I owe you one, boy. You've proven yourself worthy of my trust and admiration. Now, let's see what we can do about Grimgar..."
+
+*Kaelin rummages through his desk drawer, producing a small, intricately carved wooden box*
+
+"Grimgar's been causing trouble for years, but I think I might have something that'll give you an edge in dealing with him. This is a family heirloom, passed down from my father to me. It contains... let's just say, a little surprise that should help level the playing field."
+
+*He hands Robert the box, his eyes gleaming with a hint of mischief*
+
+"Be careful, and be clever. We can't have our town torn apart by Grimgar's antics anymore."
+>>> *robert looks in the box*
+Dave: "Ah, I think Kaelin's given us a bit more than just a family heirloom, Rob," I say with a quiet smile, my eyes fixed on Robert's face as he examines the contents of the box. "Whatever that surprise is, let's hope it'll give us an edge against Grimgar and his men."
+>>> *robert looks at it*
+Dave: "Looks like Kaelin's given us something to think about, Rob," I say quietly, my eyes still fixed on Robert's face. "Not sure what to make of it, but I'm ready to take on Grimgar and his men whenever you are."
+>>> - what is it? I need to know what it is
+Blacksmith: *I look at Robert with a serious expression, my voice barely above a whisper* "It's a note, Rob. A note from Kaelin's father, passed down through the family. It says... 'For when the hammer falls, strike true.'"
+
+*I pause, studying Robert's reaction* "I'm not sure what it means, but I think it might be more than just a simple phrase. Kaelin seemed to think it was important, and he gave it to you for a reason."
+>>> sum
+Grok Response (Summary): This is a summary of what has already happened:
+('Error: 429', '{"error":{"message":"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jbfgtakcedt96xsh2g62k4pb` on : Limit 100000, Used 97596, Requested 4134. Please try again in 24m53.976s. Visit https://console.groq.com/docs/rate-limits for more information.","type":"","code":"rate_limit_exceeded"}}\n')
+Dave: It seems like we're getting ready to take on Grimgar and his men! I'm glad Kaelin gave us some guidance, even if it was a bit cryptic. Let's figure out what that note means and come up with a plan, shall we?
+>>> yes, that sounds good. lets go out onto the street.
+Dave: "Alright, let's get some information on Grimgar's operation. I'll stick by your side, Rob."
+>>> lets go ask that merchant at the end of the street
+Dave: "Ah, yeah! I've heard he knows all the gossip in town. Let's see if we can get him to spill some beans about Grimgar's operation."
+>>> *robert and dave walk up to the merchant* Hello there, i, robert, says
+Dave: "Ah, good day to you, Robert! Nice to see you again," the merchant says with a warm smile, eyeing Dave as well. "What can I do for you two today? I've got some fine silks and spices from the south if you're interested." He leans in slightly, curiosity in his eyes, clearly expecting something more interesting than just a trade inquiry.
+>>> we were hoping that you could tell us a little about what has been going on in this town, in the way of crim
+e.
+Dave: The merchant's expression turns serious, and he glances around cautiously before leaning in closer to Robert. "Ah, you mean Grimgar's crew? They've been causin' quite a bit of trouble, I'm afraid. Robbery, extortion... some folks even say they're involved with the Black Hand." He speaks in hushed tones, as if sharing a dark secret.
+>>> *in a hushed tone* what is the black hand?
+Dave: The merchant's eyes dart around nervously before he leans in even closer to Robert. "Rumors say it's a secret society, Robert. They're said to be involved in all sorts of dark dealings... assassinations, blackmail, and worse. Some folks claim they're working with the Guild, but I don't know what to believe." He glances at Dave before adding, "Just remember, this is just between us, understood?"
+>>> yes, just between us. do you think you could tell us where we could find grimgar?
+Dave: "Grimgar's got a den somewhere on the docks," the merchant whispers, glancing around nervously. "I've heard it's near the old warehouse by the river. But be careful, Robert... Grimgar's not someone to trifle with."
+>>> Thank you, and a tip for the information *hands the merchant a gold coin* to dave "lets sneak down twords th
+at warehouse and see what we can see"
+Dave: "Sounds like a good plan, Rob," I say quietly, pocketing the gold coin. "Let's keep a low profile and see if we can gather some more info before making our move."
+>>> lets just try to spy on grimggar for right now, we will stay nice and hidden untill the time is right"
+Dave: "Aye, Robert, let's keep a low profile for now. We can scope out the area, see what Grimgar's got goin' on, and come up with a plan from there." I nod quietly, keeping an eye on our surroundings as we move towards the warehouse. "Stay close, I'll watch your back."
+>>> *robert and dave sneak down to the outskirts of the warehouse and hide in some tall grass* lets sit here and
+ watch, dave. robert says
+Dave: *I nod quietly, my eyes fixed on the warehouse as we observe from our hiding spot. "Stay quiet, Robert. I think I see some guards patrolling around back." My voice is barely above a whisper.*
+>>> *robert and dave observe for an hour, and then robert asks dave to tell him everythong that they saw*
+Dave: I nod quietly, trying to remember everything we've seen. "Okay, Robert... We've been watching the warehouse for about an hour now. I've seen two guards patrolling around back, and a group of about five rough-looking men talking with Grimgar himself. They seemed to be discussing something in hushed tones, but I couldn't quite catch what they were saying."
+
+I pause, thinking back on our observation. "One thing that did catch my eye was the entrance to a small alleyway near the river. It looked like it hadn't been used in a while, but it might be worth investigating further. Maybe we could sneak through there and get a closer look at Grimgar's operation without being seen?"
+
+I glance over at Robert, hoping I've been of some help.
+>>> thanks dave, that was very helpfull. were those men the same ones we fought in the woods?
+Dave: I shake my head quietly, trying to remember. "No, Robert... I don't think so. They looked different from the ones we fought in the woods. One of them had a scar above his eyebrow and another was wearing a gold earring." I glance at Robert, hoping that might be some kind of clue.
+>>> ok, lets sneak over to that alley and see if we can get inside
+Dave: I nod quietly, eyes fixed on the alleyway. "Yeah, let's go, Robert. I'll follow close behind. Stay sharp, okay?"
+>>> *dave and robert snaeak undetected to the entrance of the alleyway* what do you see dave?
+Dave: *I glance up at Robert, my eyes scanning the alleyway before answering quietly* "It looks like we're in luck, Robert. The alley's dark and narrow, but I think I can sneak us inside without being seen." *I take a deep breath, then nod* "Let me go first, okay?"
+>>> ok, says robert as he watches dave venture into the alleyway
+Dave: *I carefully make my way through the dark and narrow alleyway, trying not to make any noise as I move towards the other end. As I reach a small window that looks out onto Grimgar's operation, I turn back to Robert with a concerned expression* "Robert, be careful. We're close, but I can see guards moving around in there. If we get caught... *I trail off, no*robert sneaks up to dave,ud*
+>>> *robert sneaks up to dave and looks at the gaurds* I think we will be able to sneak inside and sabatoage the place, what do you think dave?
+Dave: "I think that's a good plan, Robert," I whisper back. "We can slip in quiet-like and cause some chaos from the inside. Maybe we can even find out what Grimgar is up to."
+>>> *robert and dave sneak into a back door of the warehouse* dave describes what they see
+Dave: *I whisper to Robert, my eyes scanning the dimly lit room* "We're inside, Robert. I see crates stacked up against the walls, and there's a group of men gathered around a large table in the center of the room. Grimgar himself is standing at the head of the table, talking to them. And... *I nod towards a side room* ...there's a door over there that looks like it might lead to some kind of storage area or workshop."
+>>> lets stay here and observe for a while *robert and dave observe for 30 minutes and dave begins to describe what they saw*
+Dave: "Grimgar's been talking to those men for a bit now, Robert. They seem to be discussing something in hushed tones, but I couldn't quite catch what it was. One of the men, with a scar above his eyebrow, keeps glancing around nervously like he's worried someone might overhear them."
+
+*I pause and whisper to Robert*
+
+"I also saw some crates being loaded into wagons over by the dock, Robert. Maybe whatever they're smuggling in is stored in those crates?"
+>>> what do you think Kaelin would want us to do?
+Dave: "I think Kaelin would want us to stop Grimgar's smuggling operation, Robert. He wouldn't want them to hurt anyone or bring evil into our lands."
+>>> then lets torch this place. I have a bottle of whiskey we can pour out and light on fire to burn the place down, and then we can escape back from the way we came
+Dave: "That's a good plan, Robert! We can make a big mess and scare them off. Let me pour the whiskey and get some torches ready while you keep an eye out for any guards coming our way."
+>>> *dave pours out the whisky and robert and dave light it and escape back to their hiding spot in the grass. they sit and watch as the warehouse starts catching fire and all the men inside run out in a panic
+Dave: *Dave lets out a satisfied sigh, watching the warehouse burn behind us.* "Looks like we took care of Grimgar's operation, Robert. That should give Kaelin what he needs to stop their evil plans." *I glance at Robert with a concerned expression* "But now that we've burned down the warehouse, I'm not sure how long it'll be before more guards come looking for us. We should probably keep moving, find a place to lay low until things calm down."
