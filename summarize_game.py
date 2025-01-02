@@ -28,7 +28,7 @@ def send_to_grok(conversation_history, text_content):
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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"  # Replace with your actual API key
+        "Authorization": "Bearer apikey"  # Replace with your actual API key
     }
 
     # Combine conversation history with the new text content
